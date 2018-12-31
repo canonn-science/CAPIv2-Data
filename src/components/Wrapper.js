@@ -29,7 +29,7 @@ class Wrapper extends React.Component {
     
                 <header className={css.header}>
                     <h1 className={css.alignCenter}>Canonn Sites body comparison</h1>
-                    <h2 className={css.alignCenter}>Compares body properties of different ED site types.<br /> An example of graphQL for Strapi.</h2>
+                    <h2 className={css.alignCenter}>Compares body properties of different ED site types.<br /> An example of the Canonn APIv2</h2>
                 </header>
 
                 <div className={css.sourcesWrapper}>
@@ -132,8 +132,9 @@ class Wrapper extends React.Component {
                 }
 
                 <footer className={css.footer}>
-                    <p>Made as a demo of graphQL for Strapi & Canonn.</p>
+                    <p>Made as a demo of Canonn APIv2 abilities.</p>
                     <p>Contact: Canonn Discord (ask for Vall or DMehaffy).</p>
+                    <p>Made using the CAPIv2's GraphQL endpoints.</p>
                 </footer>
     
             </div>
